@@ -1,3 +1,1 @@
-# Data-Science-Project-1
-
-Capstone
+# Data-Science-Capstone-Project
